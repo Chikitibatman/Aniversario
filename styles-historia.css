@@ -2,13 +2,14 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
     background-image: url("fotos/Captura de pantalla 2025-06-06 200033.png");
+     background-repeat: no-repeat;
   color: #333;
 }
 
 .navbar {
   position: fixed;
   top: 0; left: 0; right: 0;
-  background-color: #ff69bc;
+  background-color: #6a987c;
   padding: 10px;
   text-align: center;
   z-index: 1000;
@@ -62,7 +63,7 @@ body {
 
 /* Footer */
 .footer {
-  background-color: #ff69bc;
+  background-color: #6a987c;
   color: white;
   padding: 10px;
   text-align: center;
